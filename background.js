@@ -6,5 +6,5 @@ function buttonClicked(tab) {
   // 'tab' is an object with information about the current open tab
   console.log("clicked!")
   console.log(tab)	
-
+   // Do something!
 }
